@@ -1,0 +1,21 @@
+{
+    "Total Sales": 6283732.0,
+    "Total Orders": 200,
+    "Sales by Region": {
+        "East": 1621055,
+        "North": 1941052,
+        "South": 1276400,
+        "West": 1445225
+    },
+    "Sales by Category": {
+        "Electronics": 4020032,
+        "Furniture": 2263700
+    },
+    "Top Products": {
+        "Chair": 1132524,
+        "Desk": 1131176,
+        "Laptop": 1474935,
+        "Phone": 1243692,
+        "Tablet": 1301405
+    }
+}
